@@ -5,10 +5,10 @@ function Header() {
     <div className='Header'>
       <div className="Header-past">
         <div className="Header-left__past">
-
+            
         </div>
         <div className="Header-right__past">
-          
+
         </div>
       </div>
       
