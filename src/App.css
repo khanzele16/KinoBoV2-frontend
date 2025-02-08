@@ -130,10 +130,13 @@ table {
 }
 
 .App {
-    background-color: black;
+    background: url('./assets/Header/header-background.png');
+    background-position: top center;
+    background-repeat: no-repeat;
 
 }
-.container{
+
+.container {
     max-width: 1290px;
     margin: 0 auto;
 }
